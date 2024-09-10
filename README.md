@@ -11,8 +11,6 @@ This course introduces Python programming basics, including Jupyter notebooks, d
 - [Module 3: Python Programming Fundamentals](#module-3-python-programming-fundamentals)
 - [Module 4: Working with Data in Python](#module-4-working-with-data-in-python)
 - [Module 5: APIs and Data Collection](#module-5-apis-and-data-collection)
-- [Final Exam](#final-exam)
-- [Course Wrap-Up](#course-wrap-up)
 
 ## Module 1: Python Basics
 ### Topics Covered
@@ -47,4 +45,16 @@ This course introduces Python programming basics, including Jupyter notebooks, d
 - Introduction to APIs
 - REST APIs & HTTP Requests
 - Web Scraping
+
+## Tools and Libraries 🛠
+Python
+Jupyter Notebooks
+Pandas
+NumPy
+Matplotlib
+Requests (for APIs)
+BeautifulSoup (for Web Scraping)
+
+## Contact 💬
+Feel free to reach out to me if you have any questions or feedback!
 
